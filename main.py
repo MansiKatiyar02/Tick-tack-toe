@@ -1,3 +1,4 @@
+# This game is created without using any python libraries..
 def sum(a,b,c):
     return a+b+c
 
